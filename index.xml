@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<products>
+        <jewlery>
+                <type> Diamond Necklace </type>
+                <description> Exquisite diamond necklace with white gold chain </description>
+                <size> one size </size>
+                <price> $5000 </price>
+                <categories>
+                <category> Gold </category>
+                <category> Diamond </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Emerald Ring </type>
+                <description> Elegant emerald ring set in 18k gold </description>
+                <size> 6 </size>
+                <price> $1200 </price>
+                <categories>
+                <category> Gold </category>
+                <category> Emerald </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Sapphire Earrings </type>
+                <description> Sparkling sapphire earrings with diamond accents </description>
+                <size> one size </size>
+                <price> $1500 </price>
+                <categories>
+                <category> Diamond </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Pearl Bracelet </type>
+                <description> Classic pearl bracelet with silver clasp </description>
+                <size> 6 </size>
+                <price> $250 </price>
+                <categories>
+                <category> Pearl </category>
+                <category> Silver </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Ruby Pendant </type>
+                <description> Stunning ruby pendant on a white gold chain </description>
+                <size> one size </size>
+                <price> $800 </price>
+                <categories>
+                <category> Gold </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Diamond Stud Earrings </type>
+                <description> Classic diamond stud earrings in 14k white gold </description>
+                <size> one size </size>
+                <price> $2000 </price>
+                <categories>
+                <category> Gold </category>
+                <category> Diamond </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Gold Bangle </type>
+                <description> Thin gold bangle bracelet with a delicate design</description>
+                <size> one size </size>
+                <price> $350 </price>
+                <categories>
+                <category> Gold </category>
+                </categories>
+        </jewlery>
+
+        <jewlery>
+                <type> Opal Necklace </type>
+                <description> Opal pendant necklace with a silver chain </description>
+                <size> one size </size>
+                <price> $450 </price>
+                <categories>
+                <category> Silver </category>
+                </categories>
+        </jewlery>
+</products>
